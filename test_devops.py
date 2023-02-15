@@ -1,4 +1,4 @@
-from devopslib.randomfruit import fruit, meal
+from devopslib.randomfruit import fruit
 
 
 def test_fruit():
